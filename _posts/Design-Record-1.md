@@ -1,8 +1,7 @@
 ---
-layout:home
+layout: post
 ---
-<br>
-<br>
+
 ## Update 1
 Record 1 shows the very beginning of the competition. Here, the regular document is "unzipped" to make sure the future design is not going to violate the regulations to the maximum distance. Also, Research starts from rough Precedential browsing, which makes sure that there is enough info and ideas working as the very bottom background.
 <br>
