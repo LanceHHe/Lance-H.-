@@ -1,4 +1,4 @@
-Layout: home
+**Layout: home**
 <br>
 <br>
 ## Update 1
