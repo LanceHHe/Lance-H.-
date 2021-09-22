@@ -1,4 +1,6 @@
-**Layout: home**
+---
+layout:home
+---
 <br>
 <br>
 ## Update 1
