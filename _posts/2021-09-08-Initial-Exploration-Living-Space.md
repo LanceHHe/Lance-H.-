@@ -3,11 +3,10 @@ layout: post
 ---
 
 # Intro
-This is the very beginning of the small house competetion. 
+This is the very beginning of the Tiny House competition. It is unique because 400 or 600 ft2 per unit is relatively small than most households in the United States. However, in some particular cities (mostly Asia), the average area of units can be extremely small due to the high housing price. Therefore, starting from looking at these small flats / apartments can be a good idea.
 <br>
 <br>
-## Brochure "Unzipping"
-<iframe width="600" height="330" src="https://www.youtube.com/watch?v=NPMsEQDUuiQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+# Nycha House （）
 <br>
 <br>
 4
