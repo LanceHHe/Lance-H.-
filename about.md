@@ -19,7 +19,7 @@ permalink: /about/
 · Lisenced Interpreter bettwen English and Chinese (LEVEL 2 WRITTEN)
 <br>
 <br>
-## Contact<br>
+## Contact
 Email: haomingh@kean.edu<br>
 Wechat: LanceH-EA837
 
