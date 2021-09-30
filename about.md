@@ -1,7 +1,7 @@
 ---
 layout: page
 title:
-permalink: /about/
+permalink: 
 ---
 # Lance H. | 何昊铭
 
