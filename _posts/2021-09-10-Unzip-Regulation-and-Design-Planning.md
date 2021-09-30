@@ -11,7 +11,7 @@ layout: post
 <br>
 <br>
 ## Quick Note:
-00:00---12:45 Regulations Drive-through<br>
-12:46---14:00 Schedule Checklist<br>
-14:00---21:14 Initial Design Ideas<br>
+00:00---12:45 Regulations Drive-through<br><br>
+12:46---14:00 Schedule Checklist<br><br>
+14:00---21:14 Initial Design Ideas<br><br>
 <img alt="Lance H." src="https://github.com/LanceHHe/LanceH./blob/master/Page%20Material/design%20record%201.jpg?raw=true" width="300">
