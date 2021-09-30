@@ -15,7 +15,7 @@ permalink: /about/
 · Mionr student from Wenzhou Kean University, College of Liberal Art, School of Art History
 <br>
 <br>
-· President of Chinese Student and Scholar Associaltion of Kean University
+· President of Chinese Student and Scholar Associaltion of Kean University, USA
 <br>
 <br>
 · Lisenced Interpreter bettwen English and Chinese (LEVEL 2 WRITTEN)
