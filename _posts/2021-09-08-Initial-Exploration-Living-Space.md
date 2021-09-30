@@ -7,5 +7,4 @@ This is the very beginning of the Tiny House competition. It is unique because 4
 <br>
 <br>
 # Nycha House （NYC,US）
-<iframe src="https://github.com/LanceHHe/LanceH./blob/master/Page%20Material/NYC_NYCHA_p1.jpg?start=true&loop=true&delayms=3000" frameborder="0" width="640" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-<iframe src="https://github.com/LanceHHe/LanceH./blob/master/Page%20Material/NYC_NYCHA_p2.jpg?start=true&loop=true&delayms=3000" frameborder="0" width="640" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<img alt="Lance H." src="https://github.com/LanceHHe/LanceH./blob/master/Page%20Material/NYC_NYCHA_p1.jpg?raw=true" width="300">
