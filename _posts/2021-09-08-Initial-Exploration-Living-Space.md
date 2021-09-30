@@ -17,4 +17,4 @@ This is the very beginning of the Tiny House competition. It is unique because 4
 <br>
 # 600 sqft Luxury Flat（Tokyo,JP）
 <img alt="Lance H." src="https://github.com/LanceHHe/LanceH./blob/master/Page%20Material/HK_FL.jpg?raw=true" width="300"><br>
-<img alt="Lance H." src="https://github.com/LanceHHe/LanceH./blob/master/Page%20Material/HK_FL_P1.jpg?raw=true" width="300">
+<img alt="Lance H." src="https://github.com/LanceHHe/LanceH./blob/master/Page%20Material/HK_FL_p1.jpg?raw=true" width="300">
