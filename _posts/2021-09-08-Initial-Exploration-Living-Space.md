@@ -11,10 +11,11 @@ This is the very beginning of the Tiny House competition. It is unique because 4
 <img alt="Lance H." src="https://github.com/LanceHHe/LanceH./blob/master/Page%20Material/NYC_NYCHA_p2.jpg?raw=true" width="300">
 <br>
 <br>
-## 50 sqft Flat（Tokyo,JP）
-<img alt="Lance H." src="https://github.com/LanceHHe/LanceH./blob/master/Page%20Material/50ft2TYJP.webp?raw=true" width="300">
-<br>
-<br>
-## 600 sqft Luxury Flat (HK,CHN)
+## 600 sqft Flat (HK,CHN)
 <img alt="Lance H." src="https://github.com/LanceHHe/LanceH./blob/master/Page%20Material/HK_FL.jpg?raw=true" width="300"><br>
 <img alt="Lance H." src="https://github.com/LanceHHe/LanceH./blob/master/Page%20Material/HK_FL_p1.jpg?raw=true" width="300">
+<br>
+<br>
+## 50 sqft Flat（Tokyo,JP）
+<img alt="Lance H." src="https://github.com/LanceHHe/LanceH./blob/master/Page%20Material/50ft2TYJP.webp?raw=true" width="300">
+
