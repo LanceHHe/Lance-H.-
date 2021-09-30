@@ -1,8 +1,3 @@
----
-layout: page
-title: about
-permalink: /about/
----
 # Lance H.|何昊铭
 ## Introduction
 <img alt="Lance H." src="https://github.com/LanceHHe/LanceH./blob/master/Page%20Material/figure.jpg?raw=true" width="300">
