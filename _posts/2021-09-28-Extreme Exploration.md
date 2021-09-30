@@ -1,7 +1,7 @@
 ---
 layout: post
 ---
-## Extreme exploration
+## Extreme xploration
 Before designing space for people to live comfortably (Sweet), designers are supposed to know where the extreme point is for people to live. 3 more precedents are shown below by hand-drawing plans to better experience how the space works. (By the way it works for latter plan making as well.) All sources are from documented videos in _Bilibili.com_. AV/BV code will be shown in the subtitle as referance.
 <br><br><br>
 ## 8 sqm apartment (JP, AV207147735)
