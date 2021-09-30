@@ -20,11 +20,11 @@ Single; Unsatisfying Financial Condition; Students or Just Graduate; Cat loverâ€
 ## 3. Strategy: 
 Stairs        <br>
 Duplex (Loft) <br>
-Solar panel   <br>
+Solar Panel   <br>
 Roof Garden   <br>
 Hiding Doors  <br>
 Locker Stairs  <br>
-Interior color <br>
+Interior Color <br>
 <br>
 ## 4.	Potential Site: 
 5000 South 8400 West, Magna, UT 84044, USA (based on building in-side the circle or located at the empty space) <br><br>
