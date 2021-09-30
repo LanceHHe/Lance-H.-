@@ -3,16 +3,24 @@ layout: page
 title: About
 permalink: /about/
 ---
+## Introduction
+<img alt="Lance H." src="https://github.com/LanceHHe/LanceH./blob/master/Page%20Material/figure.jpg?raw=true" width="300">
+<br>
+<br>
+· Senior student from Wenzhou Kean University, Michael Graves College, School of Public Architecture
+<br>
+<br>
+· Mionr student from Wenzhou Kean University, College of Liberal Art, School of Art History
+<br>
+<br>
+· President of Chinese Student and Scholar Associaltion of Kean University, USA
+<br>
+<br>
+· Lisenced Interpreter bettwen English and Chinese (LEVEL 2 WRITTEN)
+<br>
+<br>
+## Contact<br>
+Email: haomingh@kean.edu<br>
+Wechat: LanceH-EA837
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
