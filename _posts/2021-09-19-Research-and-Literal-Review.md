@@ -19,4 +19,4 @@ SOLAR PANAL DOES NOT WORK <br><br>
 The mensal consumption of electrify in Utah is around 749 KW per family. However, the cost for a set of solar panel generator is at least 3,000 USD per KW (Kit, installation, maintenance, etc.), let alone the damage from storms or hurricane. Moreover, power labeled on the solar panel always points to the maximum, which means it is impossible to have a stable 1KW solar power supply from 1KW kit.
 <br>
 ## Sources: 
-<img alt="Lance H." src="https://github.com/LanceHHe/LanceH./blob/master/Page%20Material/Recycling%20Portland%20Cement%20Concrete.pdf?raw=true" width="600">
+<doc alt="Lance H." src="https://github.com/LanceHHe/LanceH./blob/master/Page%20Material/Recycling%20Portland%20Cement%20Concrete.pdf?raw=true" width="600">
