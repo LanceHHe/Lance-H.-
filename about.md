@@ -1,7 +1,4 @@
-layout: page
-title: About
-permalink:/about/
----
+
 
 # Lance H.|何昊铭
 ## Introduction
