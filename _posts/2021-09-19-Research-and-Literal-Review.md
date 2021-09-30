@@ -15,7 +15,7 @@ Affordability: Cheap/Recycled material <br><br>
 Recycled concrete can be in a maximum balance between Durability, Sustainability and  Affordability. It is widely and maturely applied in Recycled concrete can be in a maximum balance between Durability, Sustainability, and  Affordability. It is widely and maturely applied in countries like United States and Japan since 1970s. The cost of material purchasing can be cut to at most 50%.<br>
 <br>
 ## 3. Solar Panel:
-SOLAR PANAL DOES NOT WORK <br>
+SOLAR PANAL DOES NOT WORK <br><br>
 The mensal consumption of electrify in Utah is around 749 KW per family. However, the cost for a set of solar panel generator is at least 3,000 USD per KW (Kit, installation, maintenance, etc.), let alone the damage from storms or hurricane. Moreover, power labeled on the solar panel always points to the maximum, which means it is impossible to have a stable 1KW solar power supply from 1KW kit.
 <br>
 ## Sources: 
