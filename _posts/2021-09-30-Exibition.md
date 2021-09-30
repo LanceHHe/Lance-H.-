@@ -1,3 +1,7 @@
+---
+layout:post
+---
+
 asjk,d.ksldjfljkab.lfnakshfo;/slafkdskljbw.kh;/lzs, sam,b.sadnlasndlahsjasvhasbkbsakdhowklnmasnla;lsa/s/.ssdkljsalkhas9kjb.jlasd
 kdshkz,xyitwqiugbaskln[- qowjpiohdba;owdiy28878979si  s
 dlahsjasvhasbkbsakdhowklnmasnla;lsa/s/.ssdkljsalkhas9kjb.jsd
