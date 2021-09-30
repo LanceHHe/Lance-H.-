@@ -16,7 +16,7 @@ permalink: /about/
 · President of Chinese Student and Scholar Associaltion of Kean University, USA
 <br>
 <br>
-· Lisenced Interpreter bettwen English and Chinese (LEVEL 2 WRITTEN)
+· Licenced Interpreter bettwen English and Chinese (LEVEL 2 WRITTEN)
 <br>
 <br>
 ## Contact
